@@ -12,7 +12,7 @@
 		<a href="https://www.linkedin.com/in/nathanael-leblondel-3b9991276">
 			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=yellow&color=006afe" alt="LinkedIn Badge"/>
 		</a>
-		<a href="https://t.me/Slendy_Milky">
+		<a href="https://discord.gg/nqQsAErqSM">
 			<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=black&labelColor=yellow&color=006afe" alt="Discord Badge"/>
 		</a>
 	</div>
