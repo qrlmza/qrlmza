@@ -21,7 +21,7 @@
 
 ### <b>📖 About Me</b>
 
-- 🎓 18 year old Systems Administrator passionate about technology and open-source.
+- 🎓 19 year old Systems Administrator passionate about technology and open-source.
 - 💻 Skilled in network management with Netgear, D-Link, TP-Link, and Cisco devices.
 - 🖥️ Proficient in Linux, and Windows systems.
 - 📜 Experienced in scripting with Bash.
