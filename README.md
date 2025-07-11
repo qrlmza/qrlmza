@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm qrlmza ! 👨‍💻
+# 👋 Hi there, I'm selunik ! 👨‍💻
 ## 🌟 Systems Administrator | Developer | Hoster 🚀
 
 </div>
@@ -68,10 +68,10 @@
 <h3><b>📊 GitHub Stats</b></h3>
 
 <p align="center">
-<a href="https://github.com/qrlmza">
-  <img src="https://github-readme-stats.vercel.app/api?username=qrlmza&rank_icon=github&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qrlmza&theme=transparent&utcOffset=1"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qrlmza&theme=transparent"/>
+<a href="https://github.com/selunik">
+  <img src="https://github-readme-stats.vercel.app/api?username=selunik&rank_icon=github&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selunik&theme=transparent&utcOffset=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selunik&theme=transparent"/>
 </a>
 </p>
 
